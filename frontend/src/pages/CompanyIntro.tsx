@@ -32,14 +32,6 @@ const CompanyIntro: React.FC = () => {
                             수목복지문화의 선도자로서 더 나은 생태 환경을 위한 가치를 실현합니다.
                         </p>
                     </div>
-
-                    <div className="bg-light p-5 rounded-4 position-relative overflow-hidden">
-                        <i className="bi bi-quote position-absolute top-0 start-0 display-1 text-muted opacity-25 ms-3"></i>
-                        <p className="fs-3 fw-bold text-success mb-0 fst-italic position-relative" style={{ zIndex: 1 }}>
-                            "수목을 돌보는 정직한 마음으로,<br/>
-                            사람의 삶이 머무는 공간까지 치유합니다."
-                        </p>
-                    </div>
                 </div>
             </div>
         </div>
